@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="RD-251.25410.119">
+    <data-source name="Microsoft SQL Server LocalDB (JetBrains)" uuid="1baf2b63-7783-48bc-b525-2fc6438cb2c0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MSSQL_LOCALDB" />
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
